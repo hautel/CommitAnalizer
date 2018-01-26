@@ -1,0 +1,9 @@
+A Neural Architecture for Generating Natural Language Descriptions
+from Source Code Changes
+https://arxiv.org/pdf/1704.04856.pdf
+(seq2seq)
+
+Towards Automatic Generation of
+Short Summaries of Commits
+https://arxiv.org/pdf/1703.09603.pdf
+(subj+verb)
