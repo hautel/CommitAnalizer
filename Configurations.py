@@ -13,3 +13,7 @@ FileTypeXML = 'XML'
 FileTypeJava = 'Java'
 FileTypeTest = 'Test'
 FileTypeMakeFile = 'Makefile'
+
+
+MessagePath = 'F:\\master\\1\\Cercetare\\Commitgen Public\\Commitgen Public\\commitmsgs'
+DestMessagePath = ''
