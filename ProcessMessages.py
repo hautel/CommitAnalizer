@@ -7,6 +7,7 @@ from shutil import copyfile
 import io
 import string
 import nltk
+from Utils import *
 
 
 
@@ -66,14 +67,6 @@ def getSpecialMessagesList(commitsPath):
 
 
     return log
-
-def GetFoldersInDatasetPath(path):
-    return [join(path, f) for f in listdir(path) if isdir(join(path, f))]
-
-
-def GetFilesInFolder(path):
-    files = listdir(path)
-    return [join(path, f) for f in listdir(path) if isfile(join(path, f))]
 
 
 def GetCommitFiles():
